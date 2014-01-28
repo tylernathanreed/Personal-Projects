@@ -1,0 +1,37 @@
+This Application was made by Boom, founder of Boom Co. The Game of Life is the intellectual property of Boom Co, an imaginary company of the United States of America.
+
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+
+Scope
+-----
+You may:
+
+Install and use this Application for personal, or commercial use [provided you have paid any license fee, if this applies];
+
+You may not:
+
+Use, copy, transfer, distribute modify, adapt, merge, translate, decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
+Remove, modify, or tamper with any copyright, trademark or other notice;
+Use the Application for any illegal, unlawful or immoral purposes.
+
+Term
+----
+This License will end automatically if you breach any of the terms.
+When this License ends you must stop all use of the Application and destroy and erase any copies you have.
+
+Liability
+---------
+Boom Co. is not responsible for any side-effects of gameplay or damages caused by improper use of the Application. Boom Co. warrants only that this Application will function satisfactorily if used properly and on the correct operating system.
+Boom Co. does not warrant that the operation of the Appication will be uninterrupted or error free or that errors can be corrected. You install and use the Application at your own risk and in no event will Boom Co. be liable to you for any loss or damage of any kind (except personal injury or death arising from Boom Co.’s negligence) including lost profits or other consequential loss arising from the use of or inability to use the Application or from errors or deficiencies in it whether caused by negligence or otherwise.
+
+To the maximum extent permitted by law, Boom Co. excludes liability for all warranties, conditions and other terms which but for this notice would have effect.
+
+General
+-------
+
+All copyright and other intellectual property rights in this Application. All rights of Boom Co. are hereby asserted and reserved.
+The rights granted in this license are non-exclusive.
+This License does not affect your statutory rights as a consumer.
+This License is governed by United States Law and the parties submit to the exclusive jurisdiction of the American Courts.
+
+Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
