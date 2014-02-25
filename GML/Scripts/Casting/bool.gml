@@ -1,3 +1,4 @@
+#define bool
 //* Description *//
 // Usage: bool(number)
 // Function: Converts the specified Number to a Boolean
@@ -11,4 +12,5 @@ number = argument0;
 
 //* Main Body *//
 // Convert the specified Number to a Boolean
-return abs(sign(real(number)));
+return real(number) != 0;
+

@@ -1,3 +1,4 @@
+#define point_check_within
 //* Description *//
 // Usage: point_check_within(px, py, x1, y1, x2, y2, border);
 // Function: Returns whether or not the specified Point is within the specified Rectangle

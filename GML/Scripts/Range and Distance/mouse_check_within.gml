@@ -1,3 +1,4 @@
+#define mouse_check_within
 //* Description *//
 // Usage: mouse_check_within(x1, y1, x2, y2, border);
 // Function: Returns whether or not the Mouse is within the specified Rectangle

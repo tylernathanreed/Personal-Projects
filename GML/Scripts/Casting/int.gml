@@ -1,3 +1,4 @@
+#define int
 //* Description *//
 // Usage: int(number);
 // Function: Converts the specified Number to an Integer
@@ -12,3 +13,4 @@ number = argument0;
 //* Main Body *//
 // Convert the Number to an Integer
 return round(real(number));
+

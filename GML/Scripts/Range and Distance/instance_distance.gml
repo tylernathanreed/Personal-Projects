@@ -1,3 +1,4 @@
+#define instance_distance
 //* Description *//
 // Usage: instance_distance(instance[0], instance[1]);
 // Function: Returns the Distance between the two specified Instances
@@ -8,8 +9,8 @@
 //* Arguments *//
 var instance;
 
-instance[0] = argument0.id;
-instance[1] = argument1.id;
+instance[0] = inst(argument0);
+instance[1] = inst(argument1);
 
 //* Main Body *//
 // Make sure that the Instances Exist
@@ -26,3 +27,4 @@ y2 = instance[1].y;
 
 // Return the Distance between the two specified Instances
 return point_distance(x1, y1, x2, y2);
+
