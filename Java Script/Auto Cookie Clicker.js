@@ -34,7 +34,7 @@
 
 			'autoSeasonal':
 			{
-				label: 'Seasonal Popups'
+				label: 'Seasonal Popups',
 				action: function()
 				{
 					toggleAutoAction('autoSeasonal', function()
@@ -42,6 +42,7 @@
 							if(Game.seasonPopup.life > 0)
 								Game.seasonPopup.click();
 						}
+					)
 				}
 			}
 		}
